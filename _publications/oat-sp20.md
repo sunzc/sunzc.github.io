@@ -3,8 +3,8 @@ title: "OAT: Attesting Operation Integrity of Embedded Devices"
 collection: publications
 permalink: /publication/oat-sp20
 excerpt: '[Professor Statement of Contribution](http://sunzc.github.io/files/zhichuang.pdf)'
-date: 2009-10-01
-venue: '(To appear in) IEEE Symposium on Security & Privacy, May 2020'
+date: 2020-5-18
+venue: '(To appear in) IEEE Symposium on Security & Privacy'
 paperurl: 'http://sunzc.github.io/files/oat-sp20.pdf'
 citation: 'Zhichuang Sun and Bo Feng and Long Lu and Somesh Jha. &quot;OAT: Attesting Operation Integrity of Embedded Devices.&quot; <i>To appear in IEEE Symposium on Security & Privacy, May 2020</i>.'
 ---
