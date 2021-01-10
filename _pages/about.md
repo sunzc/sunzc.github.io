@@ -8,10 +8,19 @@ redirect_from:
   - /about.html
 ---
 
-My name is Zhichuang Sun(Chinese: 孙志创). I'm a PhD student in the [Khoury College 
+Zhichuang Sun(Chinese: 孙志创) is a current PhD student in the [Khoury College 
 of Computer Sciences](https://www.khoury.northeastern.edu/) at Northeastern University. 
-I work with Professor [Long Lu](https://www.longlu.org/).
+He is advised by Professor [Long Lu](https://www.longlu.org/).
 
-My research is in System Security, spanning from Remote Attestation for IoT devices, 
-Software Testing, Trusted Computing with Intel SGX or Arm TrustZone, and so on. 
-My current research focus on protecting machine learning models on mobile devices.
+His research interest is in system security, spanning across IoT security, trusted computing technologies and secure machine learning systems. 
+His current research focuses on protecting the privacy of machine learning models on mobile devices.
+
+### Thesis Committee Members
+- [Long Lu](https://www.longlu.org/)(advisor), Northeastern University 
+- [Engin Kirda](http://www.ccs.neu.edu/home/ek/), Northeastern University 
+- [Guevara Noubir](http://www.ccs.neu.edu/home/noubir/), Northeastern University 
+- [Somesh Jha](http://pages.cs.wisc.edu/~jha/)(external), University of Wisconsin-Madison
+
+### Proposal Document
+- [Thesis Proposal](http://sunzc.github.io/files/zhichuang_proposal.pdf)
+
