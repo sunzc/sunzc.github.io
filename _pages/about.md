@@ -16,10 +16,10 @@ His research interest is in system security, spanning across IoT security, trust
 His current research focuses on protecting the privacy of machine learning models on mobile devices.
 
 ### Thesis Committee Members
-- [Long Lu](https://www.longlu.org/)(advisor), Northeastern University 
+- [Long Lu (advisor)](https://www.longlu.org/), Northeastern University 
 - [Engin Kirda](http://www.ccs.neu.edu/home/ek/), Northeastern University 
 - [Guevara Noubir](http://www.ccs.neu.edu/home/noubir/), Northeastern University 
-- [Somesh Jha](http://pages.cs.wisc.edu/~jha/)(external), University of Wisconsin-Madison
+- [Somesh Jha (external)](http://pages.cs.wisc.edu/~jha/), University of Wisconsin-Madison
 
 ### Proposal Document
 - [Thesis Proposal](http://sunzc.github.io/files/zhichuang_proposal.pdf)
